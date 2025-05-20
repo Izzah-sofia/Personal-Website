@@ -1,5 +1,5 @@
 # My Personal Website for IML254 Assignment 
-This is a personal website that I have to create for my individual assignment. This website has information about me, my hobby, personal interest, education, family, and friends.
+This is a personal website that I need to create for my individual assignment. This website has information about me, my hobbies, personal interests, education, family, and friends.
 
 # Link to My Website
 (https://izzah-sofia.github.io/Personal-Website/)
