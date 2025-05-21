@@ -12,12 +12,12 @@ This is a personal website that I need to create for my individual assignment. T
 ```
 Personal-Website/
 ├── index.html
-├── bio.html
+├── aboutme.html
 ├── edu.html
 ├── fam.html
-├── frn.html
-├── hobb.html
-├── peri.html
+├── friend.html
+├── hobby.html
+├── interest.html
 └── images/
     ├── brother.jpg
     ├── cookie.jpg
